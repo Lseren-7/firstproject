@@ -22,3 +22,8 @@ npm-debug.log*
 # 临时文件
 *.tmp
 *.temp
+
+# Python（来自远程）
+.venv/
+__pycache__/
+*.pyc
